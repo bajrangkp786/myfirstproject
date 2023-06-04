@@ -1,3 +1,4 @@
 body{background-image: url('https://images.pexels.com/photos/101841/pexels-photo-101841.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'); font-color:}
 div{background-color:yellow;}
-.round{background-color:white; margin : 10px ; padding : 10px; }
+.round{background-color:white; margin : 10px ; padding : 20px; margin-left:440px; margin-right:440px; border-radius:10px; content-align:center; text-align:center; }
+.option{background-color:white; padding : 8px;}
